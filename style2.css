@@ -1,0 +1,19 @@
+body {
+	margin: auto 0;
+}
+/* nav */
+.main-nav {
+	display: flex;
+	list-style: none;
+	font-size: 0.5em;
+	margin: 0;
+}
+.options {
+	display: flex;
+	list-style: none;
+	font-size: 0.5em;
+	margin: 0;
+}
+li {
+	padding: 20px;
+}
